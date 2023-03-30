@@ -1,7 +1,8 @@
 {
   "name": "avite",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }
